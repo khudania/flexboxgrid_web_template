@@ -171,6 +171,11 @@ img{
 
 /*Services*/
 
+.services ul{
+    padding: 0;
+    
+}
+
 .services ul li{
     list-style: none;
     padding: 10px;
